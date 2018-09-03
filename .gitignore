@@ -1,0 +1,16 @@
+.classpath
+.project
+.settings/
+target/
+.metadata/
+.recommenders/
+**/.classpath
+**/.project
+**/.settings/
+**/target/
+**/.metadata/
+**/.recommenders/
+.DS_Store
+*/DS_Store
+RemoteSystemsTempFiles/
+/RemoteSystemsTempFiles/
